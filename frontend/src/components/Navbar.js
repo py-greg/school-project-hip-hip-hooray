@@ -7,9 +7,7 @@ const Navbar = () => {
       <img src={logo} className="App-logo" alt="logo" />
       <NavBrand to="/">QRCLOUD</NavBrand>
       <NavMenu>
-        <NavLink to="/" end>
-          Home
-        </NavLink>
+        <NavLink to="/account">Account</NavLink>
         <NavLink to="/login">Login</NavLink>
         <NavLink to="/register">Register</NavLink>
       </NavMenu>

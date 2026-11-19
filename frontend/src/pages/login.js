@@ -2,7 +2,7 @@ function Login() {
   return (
     <header className="App-header">
       <p className="BlackText">
-        <b>Login</b>
+        <b style={{ fontSize: '40px' }}>Login</b>
       </p>
       <input className="loginInput" type="text"  placeholder="Username" />
       <input className="loginInput" type="password"  placeholder="Password" />
