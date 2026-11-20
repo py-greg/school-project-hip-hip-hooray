@@ -53,7 +53,7 @@
 .file-table td {
   border: 1px solid #ccc;
   padding: 6px 10px;
-  text-align: left;
+  text-align: center;
 }
 
 .file-table th {
